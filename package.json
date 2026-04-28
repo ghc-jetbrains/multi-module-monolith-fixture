@@ -1,0 +1,9 @@
+{
+  "name": "repro-monolith",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Repro fixture for GitHub Copilot IntelliJ plugin perf issues",
+  "scripts": {
+    "noop": "echo no-op"
+  }
+}

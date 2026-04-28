@@ -1,0 +1,14 @@
+# Build outputs
+build/
+out/
+target/
+bin/
+
+# IDE
+.idea/
+.gradle/
+*.iml
+
+# Node-style (in case TS tooling drops anything here)
+node_modules/
+dist/
